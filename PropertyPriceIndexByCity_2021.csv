@@ -1,8 +1,8 @@
 ,City,Price To Income Ratio,Gross Rental Yield City Centre,Gross Rental Yield Outside of Centre,Price To Rent Ratio City Centre,Price To Rent Ratio Outside Of City Centre,Mortgage As A Percentage Of Income,Affordability Index
-0,"Damascus, Syria",67.81,4.23,3.83,23.62,26.12,803.98,0.12
+0,"Damascus, Syria",,4.23,,23.62,26.12,803.98,0.12
 1,"Shenzhen, China",46.28,1.31,1.39,76.63,71.93,373.03,0.27
-2,"Tehran, Iran",45.95,4.61,5.61,21.69,17.81,1002.54,0.1
-3,"Hong Kong, Hong Kong",45.19,1.62,1.74,61.64,57.56,288.29,0.35
+2,"Tehran, Iran",45.95,,5.61,21.69,17.81,,0.1
+3,"Hong Kong, Hong Kong",45.19,1.62,,61.64,57.56,288.29,0.35
 4,"Beijing, China",41.7,1.64,2.01,60.79,49.86,337.73,0.3
 5,"Manila, Philippines",37.15,5.71,3.86,17.52,25.94,369.41,0.27
 6,"Shanghai, China",36.03,2.0,2.03,50.07,49.31,285.21,0.35
